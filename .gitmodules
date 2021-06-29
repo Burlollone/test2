@@ -1,0 +1,3 @@
+[submodule "src/app/subModule"]
+	path = src/app/subModule
+	url = https://github.com/Burlollone/subModule.git
